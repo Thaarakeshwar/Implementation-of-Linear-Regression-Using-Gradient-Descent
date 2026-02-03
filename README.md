@@ -79,6 +79,7 @@ print(f"Final weight (w): {w}")
 print(f"Final bias (b): {b}")
 ```
 ## Output:
+<img width="1278" height="588" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/d15671fb-7f2c-44da-bf14-7db3261119bb" />
 
 
 
